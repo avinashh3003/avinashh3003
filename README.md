@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [My Blog](https://medium.com/@avinashh3003)
 
-- 📄 Know about my experiences [View Resume](https://avinashh3003.github.io/RESUME/RESUME.pdf)
+- 📄 Know about my experiences [Download Resume](https://avinashh3003.github.io/RESUME/RESUME.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
