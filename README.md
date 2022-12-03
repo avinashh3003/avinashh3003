@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development, Java Programming**
 
-- 👨‍💻 All of my projects are available at [My Potfolio](https://avinashh3003.github.io/)
+- 👨‍💻 All of my projects are available at [My Potfolio](https://avinashh.xyz/)
 
 - 📝 I regularly write articles on [My Blog](https://medium.com/@avinashh3003)
 
