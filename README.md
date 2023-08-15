@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashh3003&label=Profile%20views&color=0e75b6&style=flat" alt="avinashh3003" /> </p>
 
-- 🌱 I’m currently learning **Web Development, Java Programming**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [My Potfolio](https://avinashh.xyz/)
 
